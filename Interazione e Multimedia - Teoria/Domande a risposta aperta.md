@@ -1,2 +1,2 @@
 [8]
-Le immagini raster hanno come singole unita' il "pixel", il quale ha un valore ne indica il colore, ognuno dei quali è disposto sul IV quadrante del piano cartesiano nell'ordine dei numeri positivi 
+Le immagini raster hanno come singole unita' il "pixel", il quale ha un valore che ne indica il colore, ognuno dei quali è disposto sul IV quadrante del piano cartesiano nell'ordine dei numeri positivi {N0} 
