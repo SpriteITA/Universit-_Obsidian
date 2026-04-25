@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reti/Laboratorio/Esercizio 1 -- Reti.md",
+                "file": "Reti/Laboratorio/Esercizio 2 -- Reti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esercizio 1 -- Reti"
+              "title": "Esercizio 2 -- Reti"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "489b917cfae52959",
@@ -187,9 +187,10 @@
   },
   "active": "32e9881ba314bc4b",
   "lastOpenFiles": [
+    "Reti/Laboratorio/Esercizio 1 -- Reti.md",
+    "Reti/Laboratorio/Esercizio 2 -- Reti.md",
     "Prova Git Hub.md",
     "Benvenuto.md",
-    "Reti/Laboratorio/Esercizio 1 -- Reti.md",
     "Analisi 1/Esami Esercitazione",
     "Reti/Laboratorio 1/Esercizio 1 -- Reti.md",
     "Reti/Laboratorio 1",
