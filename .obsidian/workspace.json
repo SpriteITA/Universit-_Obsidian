@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Esercizio 2 -- Reti"
             }
+          },
+          {
+            "id": "195626a6078d30e1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Interazione e Multimedia - Teoria/Drawing 2026-04-25 18.37.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-25 18.37.40.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "489b917cfae52959",
@@ -185,10 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32e9881ba314bc4b",
+  "active": "195626a6078d30e1",
   "lastOpenFiles": [
-    "Reti/Laboratorio/Esercizio 1 -- Reti.md",
     "Reti/Laboratorio/Esercizio 2 -- Reti.md",
+    "Interazione e Multimedia - Teoria/Drawing 2026-04-25 18.37.40.excalidraw.md",
+    "Interazione e Multimedia - Teoria/Senza nome.canvas",
+    "Interazione e Multimedia - Teoria",
+    "Reti/Laboratorio/Esercizio 1 -- Reti.md",
     "Prova Git Hub.md",
     "Benvenuto.md",
     "Analisi 1/Esami Esercitazione",
