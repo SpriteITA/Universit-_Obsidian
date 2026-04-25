@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reti/Laboratorio/Esercizio 1 -- Reti.md",
+                "file": "Prova Git Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esercizio 1 -- Reti"
+              "title": "Prova Git Hub"
             }
           }
         ]
@@ -181,17 +181,26 @@
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false
+      "bases:Crea nuova Base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32e9881ba314bc4b",
+  "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
+    "Benvenuto.md",
+    "Prova Git Hub.md",
+    "Reti/Laboratorio/Esercizio 1 -- Reti.md",
+    "Analisi 1/Esami Esercitazione",
+    "Reti/Laboratorio 1/Esercizio 1 -- Reti.md",
+    "Reti/Laboratorio 1",
+    "Inglese (Studio personale)",
+    "Sistemi Operativi",
+    "Analisi 2",
+    "Analisi 1",
     "Senza nome.canvas",
     "Drawing 2026-04-25 01.55.30.excalidraw.md",
     "Reti/Laboratorio",
     "Reti/Teoria",
-    "Reti/Laboratorio/Esercizio 1 -- Reti.md",
-    "Benvenuto.md",
     "Reti"
   ]
 }
