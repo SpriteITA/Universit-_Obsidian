@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7f5ebcfa356605b0",
+        "id": "1b9ef035011cbed6",
         "type": "tabs",
         "children": [
           {
-            "id": "32e9881ba314bc4b",
+            "id": "ee6f3425fad6feed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reti/Laboratorio/Esercizio 2 -- Reti.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Esercizio 2 -- Reti"
-            }
-          },
-          {
-            "id": "195626a6078d30e1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Interazione e Multimedia - Teoria/Drawing 2026-04-25 18.37.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-25 18.37.40.excalidraw"
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +182,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "195626a6078d30e1",
+  "active": "ee6f3425fad6feed",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-04-25 18.45.31.excalidraw.md",
     "Reti/Laboratorio/Esercizio 2 -- Reti.md",
+    "Excalidraw/Drawing 2026-04-25 18.45.24.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-25 18.44.52.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-25 18.45.19.excalidraw.md",
     "Interazione e Multimedia - Teoria/Drawing 2026-04-25 18.37.40.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-25 18.42.25.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
     "Interazione e Multimedia - Teoria",
     "Reti/Laboratorio/Esercizio 1 -- Reti.md",
@@ -216,9 +209,6 @@
     "Analisi 2",
     "Analisi 1",
     "Senza nome.canvas",
-    "Drawing 2026-04-25 01.55.30.excalidraw.md",
-    "Reti/Laboratorio",
-    "Reti/Teoria",
-    "Reti"
+    "Drawing 2026-04-25 01.55.30.excalidraw.md"
   ]
 }
