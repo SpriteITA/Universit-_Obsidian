@@ -7,4 +7,5 @@ In the first part of the program we define two protagonist in the connection:
 These two are now **==nodes==** of the network !
 So...Now i'll describe the phase of connection:
 
-1. The sender send a message to the receiver  
+1. The ==sender== send a message to the ==receiver==  trough a signal
+2. The signal passes through the cable
