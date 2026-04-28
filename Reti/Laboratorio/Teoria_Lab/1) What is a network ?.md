@@ -4,4 +4,7 @@ In the first part of the program we define two protagonist in the connection:
 1. ==Sender==
 2. ==Receiver==
    
-These are now **==nodes==** of the network
+These two are now **==nodes==** of the network !
+So...Now i'll describe the phase of connection:
+
+1. The sender send a message to the receiver  
