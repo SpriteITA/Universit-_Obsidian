@@ -15,6 +15,8 @@ So...Now i'll describe the phase of connection:
    
    
 -------------------------------------------------------
-1.1 What are nodes ?
+1.1 What are nodes / hosts ?
 
-h
+Host are divided into ==clients== and ==serves==
+
+![[Pasted image 20260428235233.png]]
