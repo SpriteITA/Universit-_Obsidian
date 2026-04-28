@@ -20,3 +20,7 @@ So...Now i'll describe the phase of connection:
 Host are divided into ==clients== and ==serves==
 
 ![[Pasted image 20260428235233.png]]
+
+How we can see in this image the ==client== send a ==message request== to the ==web Server== but...
+
+Also the web Server could become client when for example he need information like credential of the client / user
