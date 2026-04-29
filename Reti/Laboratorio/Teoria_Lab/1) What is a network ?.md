@@ -62,4 +62,13 @@ Network in fact is a ==mathematic group== how multiple nodes / hosts are connect
 
 ![[Pasted image 20260429160222.png]]
 
+--------------------------------------
 
+
+1.5 router
+
+Connected network is the role of ==router==:
+The router can:
+
+1. Connected different network
+2. 
