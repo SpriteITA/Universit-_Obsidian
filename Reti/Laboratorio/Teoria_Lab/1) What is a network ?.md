@@ -58,4 +58,8 @@ And these two factor allow this network device to ==send the response== at the c
 
 ![[Pasted image 20260429155423.png]]  
 
-Network in fact is a group how multiple nodes / hosts connected to which others 
+Network in fact is a ==mathematic group== how multiple nodes / hosts connected to which others and for this reason they can sends and receives messages in the correct path and also correct host can receve
+
+![[Pasted image 20260429160222.png]]
+
+
