@@ -54,4 +54,8 @@ Cause it can be connected multiple host just like an hub
 
 And it can be learn / recognize the combination host / network port
 
-And these two factor allow this network device to ==send the response ì==  
+And these two factor allow this network device to ==send the response== at the correct host and with this network device ==we've finally a good network==
+
+![[Pasted image 20260429155423.png]]  
+
+Network in fact is a group how multiple nodes / hosts connected to which others 
