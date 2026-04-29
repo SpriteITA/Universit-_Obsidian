@@ -27,6 +27,8 @@ Also the web Server could become client when for example he need information lik
 
 NB. Also the server are computer BUT they've software which is able to respond
 
-How we know the computers have 
+How we know the computers have multiple network ports, so we could connected with a cable the computers wich each other. But sometimes when we've a lot of devices that could make a difficult topolgy. For these reason and others we can use an ==Hub== 
 
 -------------------------------------------------------
+
+An Hub allow us to connected multiples computers. But us
