@@ -72,3 +72,13 @@ The router can:
 
 1. Connected different network
 2. Act like ==gateway== for the node (when an host know that a message isn't in the local network he send the message to router...and for this reason he act like gateway for the host ! cause allow the public interface) 
+   
+Also the router can be connected to each other ! in fact we can say that internet is a network of interconnected router !
+
+But now...Exercise time !!
+
+
+------------------------------------
+
+EXERCISE TIME:
+The assi
