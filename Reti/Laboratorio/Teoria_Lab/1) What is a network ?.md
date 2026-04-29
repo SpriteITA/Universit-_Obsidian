@@ -46,4 +46,12 @@ The ==bridge== is another network device can resolve the problem of sends messag
 
 ------------------------------------
 
-1.4 
+1.4 Switch
+
+The ==switch== finally is an combination of an hub and a bridge ! 
+
+Cause it can be connected multiple host just like an hub 
+
+And it can be learn / recognize the combination host / network port
+
+And these two factor allow this network device to ==send the response ì==  
