@@ -80,5 +80,22 @@ But now...Exercise time !!
 
 ------------------------------------
 
-EXERCISE TIME:
-The assi
+The assignment:
+
+Try to design a network topology as follow:
+  
+
+- There are a Home Network
+    
+- There are 5 devices connected to the network
+    
+- The Home Network is connected to the City Network
+    
+- In the City Network there are other 2 Home Network
+    
+- Via a Gateway, the City Network is connected to the Internet
+    
+- At some point, a YouTube Network is connected to the Internet
+    
+- Inside the YouTube Network, there are 2 nodes, the Video Streaming Server and the Database Server.
+    
