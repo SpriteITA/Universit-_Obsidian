@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "489b917cfae52959",
@@ -186,11 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46c71a7b67233719",
+  "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
+    "Prova Git Hub.md",
+    "Reti/Laboratorio/Teoria_Lab/1) What is a network ?.md",
+    "Excalidraw/Drawing 2026-04-29 15.24.49.excalidraw.md",
     "Pasted image 20260428235233.png",
     "Interazione e Multimedia - Teoria/Domande a risposta aperta.md",
-    "Reti/Laboratorio/Teoria_Lab/1) What is a network ?.md",
     "Reti/Laboratorio/Teoria_Lab",
     "Reti/Laboratorio/Esercizi",
     "Excalidraw/Drawing 2026-04-28 23.07.46.excalidraw.md",
@@ -210,7 +211,6 @@
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
     "Interazione e Multimedia - Teoria",
     "Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
-    "Prova Git Hub.md",
     "Benvenuto.md",
     "Analisi 1/Esami Esercitazione",
     "Reti/Laboratorio 1/Esercizio 1 -- Reti.md",
