@@ -32,7 +32,7 @@ How we know the computers have multiple network ports, so we could connected wit
 -------------------------------------------------------
 1.2 What is an Hub ?
 
-An Hub allow us to connected multiples computers. But isn't smart cause hub simply sends the messages to all the ports without searching the hostRequest
+An Hub is a network device that allow us to connected multiples computers. But isn't smart cause hub simply sends the messages to all the ports without searching the hostRequest
 
 ![[Pasted image 20260429153106.png]]
 
@@ -40,9 +40,10 @@ An Hub allow us to connected multiples computers. But isn't smart cause hub simp
 
 1.3 Bridge
 
-The ==bridge== resolve the problem of sends message to all the ports cause it can be ==learn== which host is connected of one his two network ports.  
+The ==bridge== is another network device can resolve the problem of sends message to all the ports cause it can be ==learn== which host is connected of one his two network ports.  
 
 ![[Pasted image 20260429154112.png]]
 
 ------------------------------------
 
+1.4 
