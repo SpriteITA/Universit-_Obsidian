@@ -40,4 +40,9 @@ An Hub allow us to connected multiples computers. But isn't smart cause hub simp
 
 1.3 Bridge
 
-The ==bridge== resolve the problem of sends message to all the ports cause it can be ==learn== which learn  
+The ==bridge== resolve the problem of sends message to all the ports cause it can be ==learn== which host is connected of one his two network ports.  
+
+![[Pasted image 20260429154112.png]]
+
+------------------------------------
+
