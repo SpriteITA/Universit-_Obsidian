@@ -25,4 +25,8 @@ How we can see in this image the ==client== send a ==message request== to the ==
 
 Also the web Server could become client when for example he need information like credential of the client / user
 
-NB. Also the server are computer BUT they've software which is able to responds
+NB. Also the server are computer BUT they've software which is able to respond
+
+How we know the computers have 
+
+-------------------------------------------------------
