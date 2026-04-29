@@ -30,7 +30,12 @@ NB. Also the server are computer BUT they've software which is able to respond
 How we know the computers have multiple network ports, so we could connected with a cable the computers wich each other. But sometimes when we've a lot of devices that could make a difficult topolgy. For these reason and others we can use an ==Hub== 
 
 -------------------------------------------------------
-What is an Hub ?
+1.2 What is an Hub ?
 
-An Hub allow us to connected multiples computers. But isn't smart cause hub simply sends the messages to all the ports without searching the host
+An Hub allow us to connected multiples computers. But isn't smart cause hub simply sends the messages to all the ports without searching the hostRequest
 
+![[Pasted image 20260429153106.png]]
+
+-------------------------------------------------------
+
+1.3 
