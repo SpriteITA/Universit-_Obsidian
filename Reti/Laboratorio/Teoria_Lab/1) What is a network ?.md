@@ -59,7 +59,7 @@ And these two factors allow this network device to ==send the response== at the 
 
 ![[Pasted image 20260429155423.png]]  
 
-Network in fact is a ==mathematic group== how multiple nodes / hosts are connected to which others and for this reason they can sends and receives messages in the correct path and and most important only the correct host can receive
+Network in fact is a graph how multiple nodes / hosts are connected to which others and for this reason they can sends and receives messages in the correct path and and most important only the correct host can receive
 
 ![[Pasted image 20260429160222.png]]
 
@@ -68,11 +68,11 @@ Network in fact is a ==mathematic group== how multiple nodes / hosts are connect
 
 1.5 router
 
-Connected network is the role of ==router==:
+Connect networks is the role of ==router==:
 The router can:
 
-1. Connected different network
-2. Act like ==gateway== for the node (when an host know that a message isn't in the local network he send the message to router...and for this reason he act like gateway for the host ! cause allow the public interface) 
+1. Connect different network
+2. Act as a ==gateway== for the node (when a host knows that a message isn't in the local network he send the message to the router...and for this reason he acts as a gateway for the host ! cause allow the public interface) 
    
 Also the router can be connected to each other ! in fact we can say that internet is a network of interconnected router !
 
