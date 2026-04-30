@@ -30,6 +30,15 @@ int main()
 ```
 
 
-Definisco adesso 
+Definisco adesso i concetti chiave:
 
+1. `errno` ---> Variabile globale
 
+2. ```
+   ENOENT
+   EPERM /* Numeri che indicano un errore */
+   EINTR
+	```
+
+3. `sterror` ---> una funzione di libreria che re
+   
