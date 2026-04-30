@@ -22,13 +22,13 @@ A host could behave both as a client and a server.
 
 ![[Pasted image 20260428235233.png]]
 
-How we can see in this image the ==client== send a ==message request== to the ==web Server== but...
+As we can see in this image the ==client== sends a ==message request== to the ==web Server== but...
 
-Also the web Server could become client when for example he need information like credential of the client / user
+The web Server could also behave as a client when for example he needs information such as credential of the client / user
 
-NB. Also the server are computer BUT they've software which is able to respond
+NB.  The server also are computer BUT they've software which is able to respond
 
-How we know the computers have multiple network ports, so we could connected with a cable the computers wich each other. But sometimes when we've a lot of devices that could make a difficult topolgy. For these reason and others we can use an ==Hub== 
+As we know the computers have multiple network ports, so we could connect with a cable the computers with each other. But if the number  For these reason and others we can use a ==Hub== 
 
 -------------------------------------------------------
 1.2 What is an Hub ?
