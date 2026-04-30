@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72454efe10530b1f",
+        "id": "535ba192034bd3fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e97839e0f6b0eb72",
+            "id": "397eeb5ddffa8568",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Second year/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aiutami Gabriel."
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "489b917cfae52959",
@@ -186,36 +181,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e97839e0f6b0eb72",
+  "active": "397eeb5ddffa8568",
   "lastOpenFiles": [
+    "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
+    "2_Second year/2_Second Semestre/Software engenire",
+    "2_Second year/2_Second Semestre",
+    "2_Second year/1_First Semestre",
+    "Senza nome",
     "Utility/FileImmagini/Pasted image 20260429154112.png",
     "Utility/FileImmagini/Pasted image 20260429155423.png",
-    "2 Second year/Reti/Laboratorio/Teoria_Lab/1) What is a network ?.md",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/Teoria_Lab/1) What is a network ?.md",
     "Utility/FileImmagini/Pasted image 20260428235233.png",
     "Utility/FileImmagini/Pasted image 20260429153106.png",
-    "2 Second year/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
     "Utility/FileImmagini",
     "Utility/Senza nome.md",
     "Personal Folder",
-    "2 Second year",
-    "1 First year",
+    "2_Second year",
+    "1_First year",
     "Utility",
     "Utility/COMANDI macOS + Obsidian/Lista commandi.md",
     "Utility/Excalidraw/Drawing 2026-04-30 16.37.41.excalidraw.md",
     "Utility/Excalidraw",
-    "2 Second year/Sistemi Operativi/Laboratorio",
     "Utility/FileImmagini/Pasted image 20260429160222.png",
-    "Utility/COMANDI macOS + Obsidian",
     "Prova Git Hub.md",
     "Excalidraw/Drawing 2026-04-29 15.24.49.excalidraw.md",
-    "2 Second year/Interazione e Multimedia - Teoria/Domande a risposta aperta.md",
-    "2 Second year/Reti/Laboratorio/Teoria_Lab",
-    "2 Second year/Reti/Laboratorio/Esercizi",
+    "2_Second year/1_First Semestre/Interazione e Multimedia - Teoria/Domande a risposta aperta.md",
     "Excalidraw/Drawing 2026-04-28 23.07.46.excalidraw.md",
     "Interazione e Multimedia - Teoria/Drawing 2026-04-25 18.37.40.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.48.29.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.45.31.excalidraw.md",
-    "2 Second year/Reti/Laboratorio/Esercizi/Esercizio 2 -- Reti.md",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 2 -- Reti.md",
     "Excalidraw/Drawing 2026-04-25 18.45.24.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.44.52.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.45.19.excalidraw.md",
@@ -223,7 +218,7 @@
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
-    "2 Second year/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
     "Benvenuto.md",
     "Reti/Laboratorio 1/Esercizio 1 -- Reti.md",
     "Senza nome.canvas",
