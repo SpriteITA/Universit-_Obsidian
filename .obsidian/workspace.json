@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+                "file": "Personal Folder/Inglese (Studio personale)/1. Tempi Verbali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) What is a network ?"
+              "title": "1. Tempi Verbali"
             }
           }
         ]
@@ -185,11 +185,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6a872fcc73b2bb",
+  "active": "397eeb5ddffa8568",
   "lastOpenFiles": [
+    "verbi-irregolari.jpg",
+    "Personal Folder/Inglese (Studio personale)/0. LINK UTILI.md",
+    "Personal Folder/Inglese (Studio personale)/1. Tempi Verbali.md",
+    "Personal Folder/Inglese (Studio personale)/Senza nome",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+    "Personal Folder/Inglese (Studio personale)/0) Link utili",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 2 -- Reti.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
     "2_Second year/2_Second Semestre/Software engenire",
     "2_Second year/2_Second Semestre",
@@ -204,10 +209,8 @@
     "Personal Folder",
     "2_Second year",
     "1_First year",
-    "Utility",
     "Utility/COMANDI macOS + Obsidian/Lista commandi.md",
     "Utility/Excalidraw/Drawing 2026-04-30 16.37.41.excalidraw.md",
-    "Utility/Excalidraw",
     "Utility/FileImmagini/Pasted image 20260429160222.png",
     "Prova Git Hub.md",
     "Excalidraw/Drawing 2026-04-29 15.24.49.excalidraw.md",
