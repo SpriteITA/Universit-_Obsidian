@@ -30,8 +30,6 @@ int main()
 ```
 
 
-Questo succede grazie ad una variabile di sistema definita ==errno==, la quale gli verrà assegnanto un errore in baase 
-
-`errno`
+Definisco adesso 
 
 
