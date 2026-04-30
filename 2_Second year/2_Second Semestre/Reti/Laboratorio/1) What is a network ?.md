@@ -108,4 +108,8 @@ Try to design a network topology as follow:
 
 NOTATION:
 1. The IP address is compose by 32 bit (4 * 8)![[rete1.excalidraw]]
-2. If the last is "0" 
+
+2. If the last is "0" he's identify the network
+   `192.168.1.0` 
+   
+3. if the last is "255" he's identify all hosts 
