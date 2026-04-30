@@ -107,4 +107,5 @@ Try to design a network topology as follow:
 
 
 NOTATION:
-1. The IP address is compose by 32 bit 
+1. The IP address is compose by 32 bit
+	
