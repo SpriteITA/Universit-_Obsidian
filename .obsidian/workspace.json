@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "489b917cfae52959",
@@ -182,8 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "397eeb5ddffa8568",
+  "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 2 -- Reti.md",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/Teoria_Lab/1) What is a network ?.md",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
     "2_Second year/2_Second Semestre/Software engenire",
     "2_Second year/2_Second Semestre",
@@ -191,7 +193,6 @@
     "Senza nome",
     "Utility/FileImmagini/Pasted image 20260429154112.png",
     "Utility/FileImmagini/Pasted image 20260429155423.png",
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/Teoria_Lab/1) What is a network ?.md",
     "Utility/FileImmagini/Pasted image 20260428235233.png",
     "Utility/FileImmagini/Pasted image 20260429153106.png",
     "Utility/FileImmagini",
@@ -211,7 +212,6 @@
     "Interazione e Multimedia - Teoria/Drawing 2026-04-25 18.37.40.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.48.29.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.45.31.excalidraw.md",
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 2 -- Reti.md",
     "Excalidraw/Drawing 2026-04-25 18.45.24.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.44.52.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.45.19.excalidraw.md",
@@ -219,7 +219,6 @@
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
     "Benvenuto.md",
     "Reti/Laboratorio 1/Esercizio 1 -- Reti.md",
     "Senza nome.canvas",
