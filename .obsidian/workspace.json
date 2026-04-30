@@ -11,10 +11,14 @@
             "id": "397eeb5ddffa8568",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "1) What is a network ?"
             }
           }
         ]
@@ -183,9 +187,9 @@
   },
   "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 2 -- Reti.md",
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/Teoria_Lab/1) What is a network ?.md",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
     "2_Second year/2_Second Semestre/Software engenire",
     "2_Second year/2_Second Semestre",

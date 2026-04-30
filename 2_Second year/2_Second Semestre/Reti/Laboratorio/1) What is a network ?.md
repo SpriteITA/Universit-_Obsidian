@@ -1,4 +1,3 @@
-A network is a web of devices such as: PC, smartphone, prnter etc...,
 In the first part of the program we define two protagonist in the connection:
 
 1. ==Sender==
@@ -99,4 +98,12 @@ Try to design a network topology as follow:
 - At some point, a YouTube Network is connected to the Internet
     
 - Inside the YouTube Network, there are 2 nodes, the Video Streaming Server and the Database Server.
-    
+
+
+
+
+
+
+
+
+N.B. 
