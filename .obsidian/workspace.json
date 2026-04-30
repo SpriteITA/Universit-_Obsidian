@@ -11,12 +11,14 @@
             "id": "397eeb5ddffa8568",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Utility/Excalidraw/rete1.excalidraw.md"
+                "file": "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "rete1.excalidraw"
+              "icon": "lucide-file",
+              "title": "1) What is a network ?"
             }
           }
         ]
@@ -183,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "397eeb5ddffa8568",
+  "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "Utility/Excalidraw/rete1.excalidraw.md",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "Utility/FileImmagini/verbi-irregolari 1.jpg",
     "Utility/FileImmagini/verbi-irregolari.jpg",
     "Personal Folder/Inglese (Studio personale)/1. Tempi Verbali.md",
