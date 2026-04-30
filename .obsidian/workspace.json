@@ -11,14 +11,10 @@
             "id": "46c71a7b67233719",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reti/Laboratorio/Teoria_Lab/1) What is a network ?.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1) What is a network ?"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -185,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46c71a7b67233719",
+  "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
-    "COMANDI macOS + Obsidian/Lista commandi.md",
     "Reti/Laboratorio/Teoria_Lab/1) What is a network ?.md",
+    "COMANDI macOS + Obsidian/Lista commandi.md",
     "Pasted image 20260429160222.png",
     "Pasted image 20260429155423.png",
     "Pasted image 20260429154112.png",
