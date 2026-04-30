@@ -1,23 +1,24 @@
-A network is a web of devices like: PC, smartphone, painter etc...,
+A network is a web of devices such as: PC, smartphone, prnter etc...,
 In the first part of the program we define two protagonist in the connection:
 
 1. ==Sender==
 2. ==Receiver==
    
 These two are now **==nodes==** (or hosts) of the network !
-So...Now i'll describe the phase of connection:
+So...Now i'll describe the phases of connection:
 
-1. The ==sender== send a message to the ==receiver==  trough a signal
+1. The ==sender== sends a message to the ==receiver==  through a signal
 2. The signal passes through the cable or wi-fi (these are called ==medium==)
-3. But the messages must following a set of rules for the transmission that are include in ==protocols== ! 
+3. But the messages must follow a set of rules for the transmission that are included in ==protocols== ! 
    
-   NB: the message can be ==request== or ==resource ==
+   NB: the message can be a ==request== or a ==resource ==
    
    
 -------------------------------------------------------
 1.1 What are nodes / hosts ?
 
 Host are divided into ==clients== and ==serves==
+A host could behave both as a client and a server.
 
 ![[Pasted image 20260428235233.png]]
 
