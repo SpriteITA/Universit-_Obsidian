@@ -40,5 +40,7 @@ Definisco adesso i concetti chiave:
    EINTR
 	```
 
-3. `sterror` ---> una funzione di libreria che re
+3. `sterror` ---> una funzione di libreria che ritorna una stringa di errore
+   
+   
    
