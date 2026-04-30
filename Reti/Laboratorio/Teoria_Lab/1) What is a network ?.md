@@ -28,12 +28,12 @@ The web Server could also behave as a client when for example he needs informati
 
 NB.  The server also are computer BUT they've software which is able to respond
 
-As we know the computers have multiple network ports, so we could connect with a cable the computers with each other. But if the number  For these reason and others we can use a ==Hub== 
+As we know the computers have multiple network ports, so we could connect with a cable the computers with each other. But as the number of devices increases, the complexity of the topology increases as well. For these reason and others we can use a ==Hub== or better a switch
 
 -------------------------------------------------------
-1.2 What is an Hub ?
+1.2 What is a Hub ?
 
-An Hub is a network device that allow us to connected multiples computers. But isn't smart cause hub simply sends the messages to all the ports without searching the hostRequest
+A Hub is a network device that allow us to connect multiples computers. But isn't smart cause hubs simply sends messages to all the ports without searching the hostRequest
 
 ![[Pasted image 20260429153106.png]]
 
@@ -53,9 +53,9 @@ The ==switch== finally is an combination of an hub and a bridge !
 
 Cause it can be connected multiple host just like an hub 
 
-And it can be learn / recognize the combination host / network port
+And it can learn / recognize the combination host / network port
 
-And these two factor allow this network device to ==send the response== at the correct host and with this network device ==we've finally a good network==
+And these two factors allow this network device to ==send the response== at the correct host and with this network device ==we've finally got a good network==
 
 ![[Pasted image 20260429155423.png]]  
 
