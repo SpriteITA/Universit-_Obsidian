@@ -11,17 +11,21 @@ Esempio chiamata di sistema:
 Il sistema operativo stesso restituisce valori di ritorno di errore per indicare che qualcosa non ha funzionato bene ! Ad esempio il valore di ritorno -1:
 
 Es:
-```
+
 ```
 #include <fcntl.h>
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int fd = open("file_che_non_esiste.txt", O_RDONLY);
 
-    if (fd == -1) {
+    if (fd == -1) 
+    {
         printf("Errore nell'apertura del file\n");
     }
 
     return 0;
 }
+```
+
