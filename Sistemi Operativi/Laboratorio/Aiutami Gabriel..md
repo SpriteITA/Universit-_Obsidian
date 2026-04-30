@@ -11,6 +11,8 @@ Esempio chiamata di sistema:
 Il sistema operativo stesso restituisce valori di ritorno di errore per indicare che qualcosa non ha funzionato bene ! Ad esempio il valore di ritorno -1:
 
 Es:
+```
+```
 #include <fcntl.h>
 #include <stdio.h>
 
