@@ -6,5 +6,6 @@ Esempio chiamata di libreria:
 `printf("Ciao\n");`
 
 Esempio chiamata di sistema:
+`int fd = open("file.txt", O_RDONLY);`
 
 
