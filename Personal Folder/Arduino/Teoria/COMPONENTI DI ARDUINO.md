@@ -40,4 +40,7 @@ Il motivo nasce per 3 fattori principali: (come due grandezze si influenzano)
 	   2.2 La corrente è proporzionale alla tensione (più è grande la tensione maggiore sarà la resistenza)
 
 
-
+Il valore di una resistenza si calcola così:
+Es immagine --> [GIALLO], [VIOLA], [ROSSO], [ORO]
+        -->              2.     
+![[Tabella colori resistenze.jpeg]]
