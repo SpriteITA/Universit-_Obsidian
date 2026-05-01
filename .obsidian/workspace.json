@@ -25,12 +25,14 @@
             "id": "a11310731251b41f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Utility/Excalidraw/Drawing 2026-05-01 02.00.18.excalidraw.md"
+                "file": "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-01 02.00.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "1) What is a network ?"
             }
           }
         ],
@@ -200,8 +202,8 @@
   },
   "active": "a11310731251b41f",
   "lastOpenFiles": [
+    "Utility/Excalidraw/rete2.excalidraw.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
-    "Utility/Excalidraw/Drawing 2026-05-01 02.00.18.excalidraw.md",
     "Utility/Excalidraw/rete1.excalidraw.md",
     "Utility/FileImmagini/verbi-irregolari 1.jpg",
     "Utility/FileImmagini/verbi-irregolari.jpg",

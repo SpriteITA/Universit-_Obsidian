@@ -116,3 +116,4 @@ NOTATION:
    `192.168.1.255`
    
 4. The subnet mask tell us how to read the IP address:
+	![[rete2.excalidraw]]
