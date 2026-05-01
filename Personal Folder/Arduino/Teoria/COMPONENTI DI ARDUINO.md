@@ -62,6 +62,8 @@ R (resistenza).   = 2800
    
 ==N.B. La resistenza permette di collegare due righe perché riesce a trasportare la tensione (ovviamente opponendone resistenza)==
 
+==N.B. La resistenza deve avere entrambi i pin nella riga alimentata con la tensione==
+
 -------------------------------------------------------------------
 
 ==3. LED==
