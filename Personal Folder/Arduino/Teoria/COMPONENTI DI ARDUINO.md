@@ -27,7 +27,7 @@ Dove:
 `3. R --> Resistenza` Ohm, Ω        --> che metto nella BreadBoard
 
 ```
-```==CONCETTO MATEMATICO DELLE FORMULE FISICHE CHE SEGUONO LA STRUTTURA:==
+==CONCETTO MATEMATICO DELLE FORMULE FISICHE CHE SEGUONO LA STRUTTURA:==
 
 `Qualcosa = effetto / ostacolo`
 
@@ -39,6 +39,8 @@ Il motivo nasce per 3 fattori principali: (come due grandezze si influenzano)
 2. Un rapporto tra due grandezze invece nasce dal fatto che queste due nella realtà si influenzano...infatti 
 	   2.1 La corrente è inversamente proporzionale alla resistenza (più la resistenza è importante e meno corrente passera)
 	   2.2 La corrente è proporzionale alla tensione (più è grande la tensione maggiore sarà la resistenza)
+
+```
 
 
 Il valore di una resistenza si calcola così:
@@ -57,6 +59,8 @@ R (resistenza).   = 2800
 1. BreadBoard = 5V
 2. LED --> B = B - L --> 3V sulla breadBoard
 3. I = 3 / 2800 --> ≈ 0.00107 A ≈ ==1.07 mA==
+   
+==N.B. La resistenza permette di collegare due righe perché riesce a trasportare la tensione (ovviamente opponendone resistenza)==
 
 -------------------------------------------------------------------
 
