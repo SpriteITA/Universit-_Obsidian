@@ -55,4 +55,4 @@ R (resistenza).   = 2800
 
 1. BreadBoard = 5V
 2. LED --> B = B - L --> 3V sulla breadBoard
-3. I = 3 / 2800 --> 
+3. I = 3 / 2800 --> ≈ 0.00107 A ≈ ==1.07 mA==
