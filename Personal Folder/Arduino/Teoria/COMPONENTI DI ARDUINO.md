@@ -26,7 +26,8 @@ Dove:
 `2. V --> Tensione`     Volt, V          --> che passa dal 5V di Arduino
 `3. R --> Resistenza` Ohm, Ω        --> che metto nella BreadBoard
 
-==CONCETTO MATEMATICO DELLE FORMULE FISICHE CHE SEGUONO LA STRUTTURA:==
+```
+```==CONCETTO MATEMATICO DELLE FORMULE FISICHE CHE SEGUONO LA STRUTTURA:==
 
 `Qualcosa = effetto / ostacolo`
 
