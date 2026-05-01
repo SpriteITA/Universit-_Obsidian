@@ -49,6 +49,10 @@ Es immagine --> [GIALLO], [VIOLA], [ROSSO], [ORO]
 N.B. LA TENSIONE SI DIVIDE TRA I COMPONENTI (perché OGNI componente consuma una sua tensione)
 
 Che sostituendo alla formula diventa (mettendo un led):
+B (BreadBoard)  = 5V
+L (LED                 = necessita' di 2V
+R (resistenza).   = 2800 
 
 1. BreadBoard = 5V
-2. LED (necessit)
+2. LED --> B = B - L --> 3V sulla breadBoard
+3. I = 3 / 2800 --> 
