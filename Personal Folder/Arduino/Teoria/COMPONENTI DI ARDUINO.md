@@ -25,3 +25,8 @@ Dove:
 `1. I --> Corrente`
 `2. V --> Tensione`
 `3. R --> Resistenza` 
+
+==CONCETTO MATEMATICO DELLE FORMULE FISICHE CHE SEGUONO LA STRUTTURA:==
+`Qualcosa = effetto / ostacolo`
+
+Il mio d
