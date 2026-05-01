@@ -117,3 +117,7 @@ NOTATION:
    
 4. The subnet mask tell us how to read the IP address:
 	![[rete2.excalidraw]]
+
+
+5. Gli indirizzi privati hanno questo range (utile per gli esercizi)
+![[Pasted image 20260501230401.png]]
