@@ -112,4 +112,7 @@ NOTATION:
 2. If the last is "0" he's identify the network
    `192.168.1.0` 
    
-3. if the last is "255" he's identify all hosts 
+3. if the last is "255" he's identify all hosts (broadcast)
+   `192.168.1.255`
+   
+4. The subnet mask tell us how to read the IP address:
