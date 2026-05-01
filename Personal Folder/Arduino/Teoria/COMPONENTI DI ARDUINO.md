@@ -14,3 +14,13 @@
 
 ==2. Resistenza==
 
+![[Pasted image 20260501151547.png]]
+
+La resistenza serve per ridurre la corrente così da evitare di bruciare i componenti. In queste diapositive userò come unità di misura Ω. La corrente che ne si ricava è il risultato di un rapporto:
+
+`I = V/R`
+
+Dove:
+
+`1. I --> Corrente`
+`2.` 
