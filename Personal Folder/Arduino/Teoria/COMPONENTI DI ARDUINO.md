@@ -61,4 +61,4 @@ R (resistenza).   = 2800
 
 ==3. LED==
 
-![[Pasted image 20260501174551.png]]
+![[led.excalidraw]]

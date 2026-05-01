@@ -39,12 +39,14 @@
             "id": "e6e9da41a23ae129",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Utility/Excalidraw/Drawing 2026-05-01 17.46.27.excalidraw.md"
+                "file": "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-01 17.46.27.excalidraw"
+              "icon": "lucide-file",
+              "title": "COMPONENTI DI ARDUINO"
             }
           }
         ],
@@ -214,9 +216,11 @@
   },
   "active": "e6e9da41a23ae129",
   "lastOpenFiles": [
-    "Pasted Image 20260501174821_524.png",
+    "!led.excalidraw.md",
     "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
-    "Utility/Excalidraw/Drawing 2026-05-01 17.46.27.excalidraw.md",
+    "Utility/Excalidraw/led.excalidraw.md",
+    "Utility/Excalidraw/rete1.excalidraw.md",
+    "Pasted Image 20260501174821_524.png",
     "Utility/Excalidraw/Senza nome.md",
     "Pasted image 20260501174551.png",
     "Utility/Excalidraw/BreadoBoard.excalidraw.md",
@@ -236,8 +240,6 @@
     "Personal Folder/Arduino/Progetti",
     "Personal Folder/Arduino/Teoria",
     "Personal Folder/Arduino",
-    "Utility/Excalidraw/rete1.excalidraw.md",
-    "Utility/FileImmagini/verbi-irregolari 1.jpg",
     "Personal Folder/Inglese (Studio personale)/1. Tempi Verbali.md",
     "Personal Folder/Inglese (Studio personale)/0. Utility Inglese/2. Irregular Verbs.md",
     "Personal Folder/Inglese (Studio personale)/0. Utility Inglese",
