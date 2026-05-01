@@ -11,12 +11,14 @@
             "id": "c6ddfd6bdc3fa20d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Personal Folder/Arduino/Progetti/1) Progetto led/Circuito.png"
+                "file": "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Circuito"
+              "icon": "lucide-file",
+              "title": "COMPONENTI DI ARDUINO"
             }
           }
         ]
@@ -183,29 +185,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6a872fcc73b2bb",
+  "active": "c6ddfd6bdc3fa20d",
   "lastOpenFiles": [
-    "Personal Folder/Arduino/Progetti/1) Progetto led/Tremendous Habbi.png",
+    "Utility/FileImmagini/Pasted image 20260501142441.png",
+    "Utility/FileImmagini/Pasted Image 20260501142646_813.png",
+    "Utility/FileImmagini/Pasted image 20260429154112.png",
+    "Utility/FileImmagini/Pasted image 20260428235233.png",
+    "Personal Folder/Arduino/Progetti/1) Progetto led/Codice.md",
     "Personal Folder/Arduino/Progetti/1) Progetto led/Circuito.png",
+    "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia 1.ino",
+    "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia.ino",
+    "Personal Folder/Arduino/Progetti/1) Progetto led/Tremendous Habbi.png",
     "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
     "Personal Folder/Arduino/Progetti/1) Progetto led",
     "Utility/Excalidraw/led.excalidraw.md",
     "Utility/Excalidraw/BreadoBoard.excalidraw.md",
     "!led.excalidraw.md",
     "Utility/Excalidraw/rete1.excalidraw.md",
-    "Pasted Image 20260501174821_524.png",
+    "Utility/FileImmagini/Pasted Image 20260501174821_524.png",
     "Utility/Excalidraw/Senza nome.md",
     "Pasted image 20260501174551.png",
-    "Tabella colori resistenze.jpeg",
+    "Utility/FileImmagini/Tabella colori resistenze.jpeg",
     "Tabella resistenze.jpeg",
     "Personal Folder/Concetti matematici_Dalle materie alla realtà/DALLE MATERIE ALLA REALTA'.md",
     "Personal Folder/Concetti matematici_Dalle materie alla realtà",
-    "Pasted image 20260501151547.png",
-    "Pasted image 20260501145653.png",
-    "Pasted Image 20260501144434_448.png",
-    "Pasted Image 20260501143653_991.png",
+    "Utility/FileImmagini/Pasted image 20260501151547.png",
     "Utility/Excalidraw/rete2.excalidraw.md",
-    "Pasted image 20260501142441.png",
     "Utility/COMANDI macOS + Obsidian/Lista commandi.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "Personal Folder/Arduino/Progetti",
@@ -220,8 +225,6 @@
     "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
     "2_Second year/2_Second Semestre/Software engenire",
-    "2_Second year/2_Second Semestre",
-    "2_Second year/1_First Semestre",
     "Utility/Senza nome.md",
     "Prova Git Hub.md",
     "Excalidraw/Drawing 2026-04-29 15.24.49.excalidraw.md",
@@ -230,7 +233,6 @@
     "Interazione e Multimedia - Teoria/Drawing 2026-04-25 18.37.40.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.48.29.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.45.31.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-25 18.45.24.excalidraw.md",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
     "Senza nome.canvas"
   ]
