@@ -22,9 +22,9 @@ La resistenza serve per ridurre la corrente così da evitare di bruciare i compo
 
 Dove:
 
-`1. I --> Corrente`         (che arriva al componente).   
-`2. V --> Tensione`         (che passa dal 5V di Arduino)
-`3. R --> Resistenza`     (che metto nella BreadBoard)
+`1. I --> Corrente`     Ampere, A   --> ciò che arriva al componente   
+`2. V --> Tensione`     Volt, V          --> che passa dal 5V di Arduino
+`3. R --> Resistenza` Ohm, Ω        --> che metto nella BreadBoard
 
 ==CONCETTO MATEMATICO DELLE FORMULE FISICHE CHE SEGUONO LA STRUTTURA:==
 
