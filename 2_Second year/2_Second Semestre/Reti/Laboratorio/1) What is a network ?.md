@@ -85,9 +85,9 @@ The assignment:
 Try to design a network topology as follow:
   
 
-- There are a Home Network
+- There are a Home Network: V
     
-- There are 5 devices connected to the network
+- There are 5 devices connected to the network: V
     
 - The Home Network is connected to the City Network
     
