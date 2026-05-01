@@ -23,4 +23,5 @@ La resistenza serve per ridurre la corrente così da evitare di bruciare i compo
 Dove:
 
 `1. I --> Corrente`
-`2.` 
+`2. V --> Tensione`
+`3. R --> Resistenza` 
