@@ -67,5 +67,6 @@ R (resistenza).   = 2800
 ==3. LED==
 
 ![[led.excalidraw]]
+==N.B.  Se io collego la breadBoard direttamente al 5V e al GND la breadBoard rimarrà sempre accesa perché Arduino non la controlla MA la sta solo alimentando==
 
 ---------------------------------------------------------------------
