@@ -39,12 +39,14 @@
             "id": "d143dfffb6648ee3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Utility/Excalidraw/Drawing 2026-05-01 14.25.33.excalidraw.md"
+                "file": "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-01 14.25.33.excalidraw"
+              "icon": "lucide-file",
+              "title": "COMPONENTI DI ARDUINO"
             }
           }
         ],
@@ -214,13 +216,14 @@
   },
   "active": "d143dfffb6648ee3",
   "lastOpenFiles": [
+    "Utility/Excalidraw/BreadoBoard.excalidraw.md",
+    "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
+    "Pasted Image 20260501144434_448.png",
     "Pasted Image 20260501143653_991.png",
     "Utility/Excalidraw/rete2.excalidraw.md",
     "Pasted image 20260501142441.png",
     "Utility/COMANDI macOS + Obsidian/Lista commandi.md",
-    "Utility/Excalidraw/Drawing 2026-05-01 14.25.33.excalidraw.md",
     "Pasted Image 20260501142646_813.png",
-    "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "Personal Folder/Arduino/Progetti",
     "Personal Folder/Arduino/Teoria",
@@ -246,7 +249,6 @@
     "Utility/FileImmagini/Pasted image 20260429153106.png",
     "Utility/FileImmagini",
     "Utility/Senza nome.md",
-    "Utility/FileImmagini/Pasted image 20260429160222.png",
     "Prova Git Hub.md",
     "Excalidraw/Drawing 2026-04-29 15.24.49.excalidraw.md",
     "2_Second year/1_First Semestre/Interazione e Multimedia - Teoria/Domande a risposta aperta.md",
@@ -258,7 +260,6 @@
     "Excalidraw/Drawing 2026-04-25 18.44.52.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.45.19.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.42.25.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
     "Senza nome.canvas"
