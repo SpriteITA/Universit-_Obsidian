@@ -46,4 +46,9 @@ Es immagine --> [GIALLO], [VIOLA], [ROSSO], [ORO]
 ![[Tabella colori resistenze.jpeg]]
 
 
-Che sostituendo alla formula diventa (mettendo un led)
+N.B. LA TENSIONE SI DIVIDE TRA I COMPONENTI (perché OGNI componente consuma una sua tensione)
+
+Che sostituendo alla formula diventa (mettendo un led):
+
+1. BreadBoard = 5V
+2. LED (necessit)
