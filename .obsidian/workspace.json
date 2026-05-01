@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "COMPONENTI DI ARDUINO"
             }
+          },
+          {
+            "id": "d143dfffb6648ee3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Utility/Excalidraw/Drawing 2026-05-01 14.25.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-01 14.25.33.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,10 +212,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a11310731251b41f",
+  "active": "d143dfffb6648ee3",
   "lastOpenFiles": [
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+    "Pasted Image 20260501142646_813.png",
     "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
+    "Utility/Excalidraw/Drawing 2026-05-01 14.25.33.excalidraw.md",
+    "Pasted image 20260501142441.png",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "Personal Folder/Arduino/Progetti",
     "Personal Folder/Arduino/Teoria",
     "Personal Folder/Arduino",
@@ -245,8 +260,6 @@
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
-    "Benvenuto.md",
-    "Reti/Laboratorio 1/Esercizio 1 -- Reti.md",
     "Senza nome.canvas"
   ]
 }
