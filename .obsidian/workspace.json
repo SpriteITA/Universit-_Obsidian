@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+                "file": "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) What is a network ?"
+              "title": "COMPONENTI DI ARDUINO"
             }
           }
         ],
@@ -202,8 +202,12 @@
   },
   "active": "a11310731251b41f",
   "lastOpenFiles": [
-    "Utility/Excalidraw/rete2.excalidraw.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+    "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
+    "Personal Folder/Arduino/Progetti",
+    "Personal Folder/Arduino/Teoria",
+    "Personal Folder/Arduino",
+    "Utility/Excalidraw/rete2.excalidraw.md",
     "Utility/Excalidraw/rete1.excalidraw.md",
     "Utility/FileImmagini/verbi-irregolari 1.jpg",
     "Utility/FileImmagini/verbi-irregolari.jpg",
@@ -225,9 +229,6 @@
     "Utility/FileImmagini/Pasted image 20260429153106.png",
     "Utility/FileImmagini",
     "Utility/Senza nome.md",
-    "Personal Folder",
-    "2_Second year",
-    "1_First year",
     "Utility/COMANDI macOS + Obsidian/Lista commandi.md",
     "Utility/FileImmagini/Pasted image 20260429160222.png",
     "Prova Git Hub.md",
@@ -246,7 +247,6 @@
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
     "Benvenuto.md",
     "Reti/Laboratorio 1/Esercizio 1 -- Reti.md",
-    "Senza nome.canvas",
-    "Drawing 2026-04-25 01.55.30.excalidraw.md"
+    "Senza nome.canvas"
   ]
 }
