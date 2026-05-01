@@ -42,9 +42,8 @@ Il motivo nasce per 3 fattori principali: (come due grandezze si influenzano)
 
 Il valore di una resistenza si calcola così:
 Es immagine --> [GIALLO], [VIOLA], [ROSSO], [ORO]
-        -->           ((4.     x.    7.)      x.  100)    x.   5%.   -->  (2800 * 5%)  = 140 Ω
+ -->  ((4.     x.    7.)      x.  100)    x.   5%.   -->  2.800 * 5% = +- 140 -->  ==2800 Ω ± 140 Ω==
 ![[Tabella colori resistenze.jpeg]]
 
 
-Che sostituendo alla formula diventa:
-I = 5 / 2.800
+Che sostituendo alla formula diventa (mettendo un led)
