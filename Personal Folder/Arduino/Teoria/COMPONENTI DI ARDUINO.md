@@ -22,11 +22,14 @@ La resistenza serve per ridurre la corrente così da evitare di bruciare i compo
 
 Dove:
 
-`1. I --> Corrente`
-`2. V --> Tensione`
-`3. R --> Resistenza` 
+`1. I --> Corrente`         (che arriva al componente)
+`2. V --> Tensione`         (che passa dal 5V di Arduino)
+`3. R --> Resistenza`     (che metto nella BreadBoard)
 
 ==CONCETTO MATEMATICO DELLE FORMULE FISICHE CHE SEGUONO LA STRUTTURA:==
 `Qualcosa = effetto / ostacolo`
 
-Il mio d
+Mi son sempre chiesto del perché si usasse un rapporto per trovare una Grandezza.
+Il motivo nasce per 3 fattori principali:
+
+1. 
