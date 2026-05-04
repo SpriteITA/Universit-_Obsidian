@@ -12,7 +12,23 @@ Per lo studio di funzione si segue questo schema:
    
    GRAFICO DELLA FUNZIONE
    ![[desmos-graph.png]]
+
+-------------------------------------   
+
+==1. DOMINIO== --> I valori un cui la funzione (grafico) esiste
+
+	1.0 --> Valore assoluto
+	1.1 --> risolvo le espressioni (se c'è il valore assoluto risolvo i 2 casi a sistema)
+	1.2 --> Costruisco l'intervallo di esistenza
+	
+	
    
-   N.B. Quando si deve fare lo studio di funzione, quando si studia il dominio, se presente, si inizia SEMPRE dal dividere i casi del valore assoluto:
    
-   
+-------------------------------------   
+==2. DERIVATA== --> verifica l'andamento della funzione:
+
+- se f′(x)>0f′(x)>0 → la funzione SALE 📈
+- se f′(x)<0f′(x)<0 → la funzione SCENDE 📉
+- se f′(x)=0f′(x)=0 → punto “piatto” (possibile max/min)
+  
+  
