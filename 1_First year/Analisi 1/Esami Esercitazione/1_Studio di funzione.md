@@ -39,3 +39,27 @@ Per lo studio di funzione si segue questo schema:
 - flesso orizzontale
 
 👉 cioè punti dove **succede qualcosa**,
+
+--------------------------------------
+==4. PUNTI DI DERIVABILITA'== 
+ 
+- parabola → tangente cambia ✔️
+- valore assoluto → tangente doppia ❌
+- retta → tangente sempre uguale ✔️
+  
+  N.B. Nella retta la tangente è sempre uguale perché:
+
+```
+la pendenza non cambia mai
+```
+
+👉 cioè:
+
+- la funzione cresce sempre nello stesso modo
+- la direzione è sempre la stessa
+  
+  Prova con desmos:
+  1. Derivata costante (retta)
+     f(x)=3x-2
+     
+     
