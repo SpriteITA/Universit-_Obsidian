@@ -41,7 +41,7 @@ Per lo studio di funzione si segue questo schema:
 👉 cioè punti dove **succede qualcosa**,
 
 --------------------------------------
-==4. PUNTI DI DERIVABILITA'== 
+==4. PUNTI D NON DERIVABILITA'== 
  
 - parabola → tangente cambia ✔️
 - valore assoluto → tangente doppia ❌
@@ -60,6 +60,13 @@ la pendenza non cambia mai
   
   Prova con desmos:
   1. Derivata costante (retta)
-     f(x)=3x-2
+    f(x)=3x-2
      
-     
+2. Derivata variabile (curva)
+	f(x)=x^2
+	
+3. . NON derivabile in un punto
+    f(x)=|x|
+    
+    
+---------------------------------------
