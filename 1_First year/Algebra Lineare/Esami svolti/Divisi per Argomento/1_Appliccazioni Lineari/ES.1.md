@@ -7,5 +7,12 @@ Sostanzialmente per conoscere il concetto di applicazione lineare bisogna avere 
 5. Quali proprietà deve rispettare un'applicazione `f` per essere lineare ? (1° Somma e 2° Prodotto per scalare)
 6. 
    
-   
+
+
+
+
+
+
    ![[1.png]]
+   
+   
