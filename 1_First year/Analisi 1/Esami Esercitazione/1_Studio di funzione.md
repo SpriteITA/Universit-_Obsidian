@@ -38,4 +38,4 @@ Per lo studio di funzione si segue questo schema:
 - minimo
 - flesso orizzontale
 
-👉 cioè punti dove **succede qualcosa**, non dove “è stabile”
+👉 cioè punti dove **succede qualcosa**,
