@@ -70,3 +70,7 @@ la pendenza non cambia mai
     
     
 ---------------------------------------
+
+==5. PUNTI DI FRONTIERA==
+
+Definire un intervallo nel dominio. Questo ci serve infatti per co
