@@ -73,4 +73,4 @@ la pendenza non cambia mai
 
 ==5. PUNTI DI FRONTIERA==
 
-Definire un intervallo nel dominio. Questo ci serve infatti per co
+Definire un intervallo nel dominio. Questo ci serve infatti per calcolarne il minimo, il massimo e i punti di non derivabillità in solo quel intervallo:
