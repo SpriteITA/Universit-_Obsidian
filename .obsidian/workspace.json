@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f1574a645350c1e1",
+        "id": "cae6e6ff14c3565e",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ddfd6bdc3fa20d",
+            "id": "35791d9a0a5899c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
-                "mode": "source",
-                "source": false
+                "file": "1.png"
               },
-              "icon": "lucide-file",
-              "title": "1) What is a network ?"
+              "icon": "lucide-image",
+              "title": "1"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "right": {
     "id": "489b917cfae52959",
@@ -185,10 +183,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6a872fcc73b2bb",
+  "active": "35791d9a0a5899c0",
   "lastOpenFiles": [
-    "1_First year/Algebra Lineare",
     "Pasted image 20260501230401.png",
+    "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/ES.1.md",
+    "1.png",
+    "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/Senza nome.canvas",
+    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+    "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari",
+    "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento",
+    "1_First year/Algebra Lineare/Esami svolti",
+    "1_First year/Algebra Lineare",
     "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
     "Utility/FileImmagini/Pasted image 20260501142441.png",
     "Utility/FileImmagini/Pasted Image 20260501142646_813.png",
@@ -207,24 +212,18 @@
     "Utility/FileImmagini/Pasted Image 20260501174821_524.png",
     "Utility/Excalidraw/Senza nome.md",
     "Pasted image 20260501174551.png",
-    "Utility/FileImmagini/Tabella colori resistenze.jpeg",
     "Personal Folder/Concetti matematici_Dalle materie alla realtà/DALLE MATERIE ALLA REALTA'.md",
     "Personal Folder/Concetti matematici_Dalle materie alla realtà",
     "Utility/Excalidraw/rete2.excalidraw.md",
     "Utility/COMANDI macOS + Obsidian/Lista commandi.md",
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "Personal Folder/Arduino/Progetti",
     "Personal Folder/Arduino/Teoria",
-    "Personal Folder/Arduino",
     "Personal Folder/Inglese (Studio personale)/1. Tempi Verbali.md",
     "Personal Folder/Inglese (Studio personale)/0. Utility Inglese/2. Irregular Verbs.md",
-    "Personal Folder/Inglese (Studio personale)/0. Utility Inglese",
     "Personal Folder/Inglese (Studio personale)/0. Utility Inglese/1. LINK UTILI.md",
-    "Personal Folder/Inglese (Studio personale)/0) Link utili",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 2 -- Reti.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
-    "2_Second year/2_Second Semestre/Software engenire",
     "Utility/Senza nome.md",
     "Prova Git Hub.md",
     "Excalidraw/Drawing 2026-04-29 15.24.49.excalidraw.md",
@@ -232,7 +231,6 @@
     "Excalidraw/Drawing 2026-04-28 23.07.46.excalidraw.md",
     "Interazione e Multimedia - Teoria/Drawing 2026-04-25 18.37.40.excalidraw.md",
     "Excalidraw/Drawing 2026-04-25 18.48.29.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-25 18.45.31.excalidraw.md",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
     "Senza nome.canvas"
   ]
