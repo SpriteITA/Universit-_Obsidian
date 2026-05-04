@@ -31,4 +31,5 @@ Per lo studio di funzione si segue questo schema:
 - se f′(x)<0f′(x)<0 → la funzione SCENDE 📉
 - se f′(x)=0f′(x)=0 → punto “piatto” (possibile max/min)
   
-  
+  -------------------------------------
+==3. PUNTI CRITICI== --> quando la funzione è stabile (non cresce o sale)
