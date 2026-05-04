@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "489b917cfae52959",
@@ -186,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0018924f9ff5f5b5",
+  "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
+    "1_First year/Analisi 1/Regole base Matematica",
     "Pasted image 20260504180904.png",
     "desmos-graph.png",
     "Senza nome.md",
@@ -210,7 +210,6 @@
     "1_First year/Algebra Lineare",
     "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
     "Utility/FileImmagini/Pasted image 20260501142441.png",
-    "Utility/FileImmagini/Pasted Image 20260501142646_813.png",
     "Personal Folder/Arduino/Progetti/1) Progetto led/Codice.md",
     "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia 1.ino",
     "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia.ino",
