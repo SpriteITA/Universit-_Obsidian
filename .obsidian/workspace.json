@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "489b917cfae52959",
@@ -187,6 +188,8 @@
   },
   "active": "35791d9a0a5899c0",
   "lastOpenFiles": [
+    "Pasted image 20260504161850.png",
+    "GetImage.png",
     "Pasted image 20260504154403.png",
     "Pasted image 20260504154247.png",
     "Pasted image 20260504154210.png",
@@ -207,10 +210,8 @@
     "Utility/FileImmagini/Pasted image 20260429154112.png",
     "Utility/FileImmagini/Pasted image 20260428235233.png",
     "Personal Folder/Arduino/Progetti/1) Progetto led/Codice.md",
-    "Personal Folder/Arduino/Progetti/1) Progetto led/Circuito.png",
     "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia 1.ino",
     "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia.ino",
-    "Personal Folder/Arduino/Progetti/1) Progetto led/Tremendous Habbi.png",
     "Personal Folder/Arduino/Progetti/1) Progetto led",
     "Utility/Excalidraw/led.excalidraw.md",
     "Utility/Excalidraw/BreadoBoard.excalidraw.md",

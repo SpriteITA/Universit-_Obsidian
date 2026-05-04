@@ -24,3 +24,5 @@ Sostanzialmente per conoscere il concetto di applicazione lineare bisogna avere 
    
    E si arriva poi allo svolgimento di questo esercizio:
    ![[Pasted image 20260504154403.png]]
+
+![[Pasted image 20260504161850.png]]
