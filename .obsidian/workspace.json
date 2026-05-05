@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione/5_Maggio.md",
+                "file": "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5_Maggio"
+              "title": "Aiutami Gabriel."
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "489b917cfae52959",
@@ -186,12 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0018924f9ff5f5b5",
+  "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
+    "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione/5_Maggio.md",
     "Pasted image 20260505120515.png",
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione",
     "1_First year/Analisi 1/Regole base Matematica/Condizioni di esistenza delle funzioni.md",
-    "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione/5_Maggio.md",
     "1_First year/Analisi 1/Esami Esercitazione/1_Studio di funzione.md",
     "1_First year/Analisi 1/Regole base Matematica",
     "Pasted image 20260504180904.png",
@@ -214,7 +213,6 @@
     "1_First year/Algebra Lineare/Esami svolti",
     "1_First year/Algebra Lineare",
     "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
-    "Utility/FileImmagini/Pasted image 20260501142441.png",
     "Personal Folder/Arduino/Progetti/1) Progetto led/Codice.md",
     "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia 1.ino",
     "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia.ino",
