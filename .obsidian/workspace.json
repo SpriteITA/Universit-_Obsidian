@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
+                "file": "Utility/COMANDI COMPILATORE/COMANDI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aiutami Gabriel."
+              "title": "COMANDI"
             }
           }
         ]
@@ -185,8 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6a872fcc73b2bb",
+  "active": "0018924f9ff5f5b5",
   "lastOpenFiles": [
+    "Pasted image 20260505163244.png",
+    "1.png",
+    "Utility/COMANDI COMPILATORE/COMANDI.md",
+    "Utility/COMANDI COMPILATORE",
+    "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Appunti.md",
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione/5_Maggio.md",
     "Pasted image 20260505120515.png",
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione",
@@ -204,7 +209,6 @@
     "Pasted image 20260504154403.png",
     "Pasted image 20260504154247.png",
     "Pasted image 20260504154210.png",
-    "1.png",
     "Utility/PROMT CHATGPT -> Fondamentali per studiare",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/Senza nome.canvas",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
@@ -216,7 +220,6 @@
     "Personal Folder/Arduino/Progetti/1) Progetto led/Codice.md",
     "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia 1.ino",
     "Personal Folder/Arduino/Progetti/1) Progetto led/1_LedCheLampeggia.ino",
-    "Personal Folder/Arduino/Progetti/1) Progetto led",
     "Utility/Excalidraw/led.excalidraw.md",
     "Utility/Excalidraw/BreadoBoard.excalidraw.md",
     "!led.excalidraw.md",
@@ -230,9 +233,7 @@
     "Personal Folder/Inglese (Studio personale)/0. Utility Inglese/1. LINK UTILI.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 2 -- Reti.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/Esercizi/Esercizio 1 -- Reti.md",
-    "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Aiutami Gabriel..md",
     "Utility/Senza nome.md",
-    "Prova Git Hub.md",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
     "Senza nome.canvas"
   ]
