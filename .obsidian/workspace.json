@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "489b917cfae52959",
@@ -187,8 +188,9 @@
   },
   "active": "0018924f9ff5f5b5",
   "lastOpenFiles": [
-    "Utility/COMANDI COMPILATORE/COMANDI.md",
+    "Utility/PROMT CHATGPT -> Fondamentali per studiare/PROMT CHATGPT PER STUDIARE.md",
     "2_Second year/2_Second Semestre/Software engenire/Lezione 6 Maggio 2026.md",
+    "Utility/COMANDI COMPILATORE/COMANDI.md",
     "Pasted image 20260505163244.png",
     "1.png",
     "Utility/COMANDI COMPILATORE",
@@ -203,7 +205,6 @@
     "desmos-graph.png",
     "Senza nome.md",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/ES.1.md",
-    "Utility/PROMT CHATGPT -> Fondamentali per studiare/PROMT CHATGPT PER STUDIARE.md",
     "Pasted image 20260501230401.png",
     "Pasted image 20260504161850.png",
     "GetImage.png",
