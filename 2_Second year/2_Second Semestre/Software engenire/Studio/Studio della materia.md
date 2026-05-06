@@ -19,6 +19,7 @@ Accede ad un dato in sola lettura
 
 --------------------------
 
-
+--> INIZIO --> sum
+--> FINE --> iterate
 
 
