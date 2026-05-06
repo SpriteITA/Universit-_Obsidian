@@ -18,7 +18,11 @@ Come si può interpretare, nella funzione iterativa vien descritto passo passo a
 
 ==2. PROGRAMMAZIONE DICHIARATIVA==
  
- La programmazione Dichiarativa funziona sulla base della programmazione ad oggetti e sopratutto funzionali
+ La programmazione Dichiarativa funziona sulla base della programmazione ad oggetti e sopratutto funzionale.
+ 
+ Infatti nella programmazione funzionale, le funzioni diventano anche delle variabili e pertanto ci è pure possibile passarli come parametri.
+ 
+ 
  
 
 
