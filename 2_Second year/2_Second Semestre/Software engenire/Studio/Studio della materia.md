@@ -8,6 +8,17 @@ A questi si aggiungono anche delle regole per la "buona programmazione" e defini
 
 
 ==Command==
-Che modifica un valore / stato d
+Accede ad un dato in scrittura
+`conto.deposita(100);`
+
+
+==QUERY==
+Accede ad un dato in sola lettura
+`conto.getSaldo();`
+
+
+--------------------------
+
+
 
 
