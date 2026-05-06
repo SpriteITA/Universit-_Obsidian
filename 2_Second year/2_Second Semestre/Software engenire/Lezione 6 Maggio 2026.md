@@ -18,7 +18,7 @@ Come si può interpretare, nella funzione iterativa vien descritto passo passo a
 
 ==2. PROGRAMMAZIONE DICHIARATIVA==
  
- La programmazione Dichiarativa funzione sulla base della pro 
+ La programmazione Dichiarativa funziona sulla base della programmazione ad oggetti e sopratutto funzionali
  
 
 
