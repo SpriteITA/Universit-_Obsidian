@@ -25,12 +25,14 @@
             "id": "8bc97ded55770c16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-06 16.59.32_0.excalidraw.md"
+                "file": "1_First year/Analisi 1/Regole base Matematica/Regole base Analisi 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-06 16.59.32_0.excalidraw"
+              "icon": "lucide-file",
+              "title": "Regole base Analisi 1"
             }
           }
         ],
@@ -91,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "489b917cfae52959",
@@ -200,16 +203,17 @@
   },
   "active": "8bc97ded55770c16",
   "lastOpenFiles": [
+    "Pasted image 20260507213643.png",
+    "1_First year/Analisi 1/Esami Esercitazione/1_Studio di funzione.md",
     "Excalidraw/Drawing 2026-05-06 16.59.32_0.excalidraw.md",
     "sl_072622_51930_13.jpg",
     "Pasted image 20260505163244.png",
     "Pasted image 20260504154210.png",
     "grid-portrait-letter-1-index.png",
     "desmos-graph.png",
-    "1_First year/Analisi 1/Esami Esercitazione/1_Studio di funzione.md",
     "Excalidraw/Drawing 2026-05-07 16.57.20.excalidraw.md",
     "Excalidraw/Drawing 2026-05-07 16.56.55.excalidraw.md",
-    "1_First year/Analisi 1/Regole base Matematica/Condizioni di esistenza delle funzioni.md",
+    "1_First year/Analisi 1/Regole base Matematica/Regole base Analisi 1.md",
     "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
     "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 6 Maggio 2026.md",
     "Excalidraw/Drawing 2026-05-06 16.59.32.excalidraw.md",
