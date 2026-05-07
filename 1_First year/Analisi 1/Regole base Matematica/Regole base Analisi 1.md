@@ -8,3 +8,8 @@
 
 ![[Pasted image 20260507213643.png|467]]
 n --> 0
+
+
+==TRICONOMETRIA==
+
+![[trigo1.jpg]]
