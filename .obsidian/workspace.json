@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Regole base Analisi 1"
             }
+          },
+          {
+            "id": "67ac70ec7fabe7aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-07 21.55.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-07 21.55.37.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,8 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bc97ded55770c16",
+  "active": "67ac70ec7fabe7aa",
   "lastOpenFiles": [
+    "1_First year/Analisi 1/Regole base Matematica/Regole base Analisi 1.md",
+    "Excalidraw/Drawing 2026-05-07 21.55.37.excalidraw.md",
     "trigo1.jpg",
     "Pasted image 20260507214245.png",
     "Pasted image 20260507213643.png",
@@ -215,7 +229,6 @@
     "desmos-graph.png",
     "Excalidraw/Drawing 2026-05-07 16.57.20.excalidraw.md",
     "Excalidraw/Drawing 2026-05-07 16.56.55.excalidraw.md",
-    "1_First year/Analisi 1/Regole base Matematica/Regole base Analisi 1.md",
     "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
     "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 6 Maggio 2026.md",
     "Excalidraw/Drawing 2026-05-06 16.59.32.excalidraw.md",
@@ -231,7 +244,6 @@
     "Pasted image 20260505120515.png",
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione",
     "1_First year/Analisi 1/Regole base Matematica",
-    "Pasted image 20260504180904.png",
     "Senza nome.md",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/ES.1.md",
     "Utility/PROMT CHATGPT -> Fondamentali per studiare",
