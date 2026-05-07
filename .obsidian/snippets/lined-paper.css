@@ -1,0 +1,8 @@
+.markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-preview-view {
+    background-image:
+        linear-gradient(#2a2a2a 1px, transparent 1px),
+        linear-gradient(90deg, #2a2a2a 1px, transparent 1px);
+
+    background-size: 32px 32px;
+}
