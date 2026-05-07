@@ -1,6 +1,4 @@
 {
   "theme": "moonstone",
-  "enabledCssSnippets": [
-    "lined-paper"
-  ]
+  "enabledCssSnippets": []
 }
