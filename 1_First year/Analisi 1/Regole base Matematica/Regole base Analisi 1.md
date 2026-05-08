@@ -38,3 +38,12 @@ n --> 0
 ==TRICONOMETRIA==
 
 ![[trigo1.jpg]]
+
+
+---------------------------------------------
+==PUNTI DI NON DERIVABILITA'==
+
+![[Pasted image 20260509002627.png]]
+
+==N.B== punto di non derivabilità =
+punto dove NON esiste una sola tangente

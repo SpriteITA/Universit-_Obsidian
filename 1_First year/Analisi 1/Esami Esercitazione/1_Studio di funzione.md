@@ -80,3 +80,5 @@ Definire un intervallo nel dominio. Questo ci serve infatti per calcolarne il mi
 ==6. PUNTI DI DERIVABILITA'==
 
 ![[Pasted image 20260509001416.png]]
+
+==N.B.== punto di non derivabilità = punto dove NON esiste una sola tangente
