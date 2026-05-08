@@ -27,14 +27,50 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "1.png"
+                "file": "Utility/FileImmagini/desmos-graph.png"
+              },
+              "icon": "lucide-image",
+              "title": "desmos-graph"
+            }
+          },
+          {
+            "id": "96955bb93c6de540",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Utility/FileImmagini/1.png"
+              },
+              "icon": "lucide-image",
+              "title": "1"
+            }
+          },
+          {
+            "id": "0c169598df95b4b8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Utility/FileImmagini/desmos-graph.png"
+              },
+              "icon": "lucide-image",
+              "title": "desmos-graph"
+            }
+          },
+          {
+            "id": "d7e1284e21a29a8b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Utility/FileImmagini/1.png"
               },
               "icon": "lucide-image",
               "title": "1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,6 +236,9 @@
   },
   "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
+    "Utility/FileImmagini/desmos-graph.png",
+    "Utility/FileImmagini/1.png",
+    "Utility/FileImmagini/grid-portrait-letter-1-index.png",
     "Immagini",
     "Excalidraw/Drawing 2026-05-07 21.55.37.excalidraw.md",
     "1_First year/Analisi 1/Regole base Matematica/Regole base Analisi 1.md",
@@ -213,8 +252,6 @@
     "Excalidraw/Drawing 2026-05-06 16.59.32_0.excalidraw.md",
     "sl_072622_51930_13.jpg",
     "Pasted image 20260505163244.png",
-    "Pasted image 20260504154210.png",
-    "grid-portrait-letter-1-index.png",
     "Excalidraw/Drawing 2026-05-07 16.57.20.excalidraw.md",
     "Excalidraw/Drawing 2026-05-07 16.56.55.excalidraw.md",
     "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
@@ -237,7 +274,6 @@
     "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento",
-    "1_First year/Algebra Lineare/Esami svolti",
     "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
     "Personal Folder/Arduino/Progetti/1) Progetto led/Codice.md",
     "Utility/Excalidraw/led.excalidraw.md",
