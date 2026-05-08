@@ -75,3 +75,8 @@ la pendenza non cambia mai
 
 Definire un intervallo nel dominio. Questo ci serve infatti per calcolarne il minimo, il massimo e i punti di non derivabillità in solo quel intervallo:
 
+-----------------------------------------------
+
+==6. PUNTI DI DERIVABILITA'==
+
+![[Pasted image 20260509001416.png]]
