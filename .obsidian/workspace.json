@@ -11,66 +11,13 @@
             "id": "0018924f9ff5f5b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_First year/Analisi 1/Regole base Matematica/Condizioni di esistenza delle funzioni.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Condizioni di esistenza delle funzioni"
-            }
-          },
-          {
-            "id": "67ac70ec7fabe7aa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Utility/FileImmagini/desmos-graph.png"
-              },
-              "icon": "lucide-image",
-              "title": "desmos-graph"
-            }
-          },
-          {
-            "id": "96955bb93c6de540",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Utility/FileImmagini/1.png"
-              },
-              "icon": "lucide-image",
-              "title": "1"
-            }
-          },
-          {
-            "id": "0c169598df95b4b8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Utility/FileImmagini/desmos-graph.png"
-              },
-              "icon": "lucide-image",
-              "title": "desmos-graph"
-            }
-          },
-          {
-            "id": "d7e1284e21a29a8b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Utility/FileImmagini/1.png"
-              },
-              "icon": "lucide-image",
-              "title": "1"
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
