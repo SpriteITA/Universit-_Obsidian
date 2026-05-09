@@ -28,4 +28,6 @@ Sostanzialmente per conoscere il concetto di applicazione lineare bisogna avere 
 ![[Pasted image 20260504161850.png]]
 
 
-==N.B. Questi f($e_1$ 
+==N.B.== Questi f($e_n$ ) si chiamano  ==Immagini dei vettori della base canonica==
+
+![[Pasted image 20260509222808.png]]
