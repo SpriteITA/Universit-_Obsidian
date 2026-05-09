@@ -35,3 +35,8 @@ Sostanzialmente per conoscere il concetto di applicazione lineare bisogna avere 
 ==N.B.== Ricordati ==matrice Associata==
 
 ![[Pasted Image 20260509223123_460.png]]
+
+
+ADESSO CHE SI E' COSTRUITA LA MATRICE ASSOCIATA SI VUOLE TROVARE:
+
+°
