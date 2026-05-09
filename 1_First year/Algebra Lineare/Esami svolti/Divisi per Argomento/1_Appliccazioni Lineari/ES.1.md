@@ -28,4 +28,4 @@ Sostanzialmente per conoscere il concetto di applicazione lineare bisogna avere 
 ![[Pasted image 20260504161850.png]]
 
 
-==N.B. 
+==N.B. Questi f(e)
