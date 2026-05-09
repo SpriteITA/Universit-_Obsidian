@@ -31,3 +31,7 @@ Sostanzialmente per conoscere il concetto di applicazione lineare bisogna avere 
 ==N.B.== Questi f($e_n$ ) si chiamano  ==Immagini dei vettori della base canonica==
 
 ![[Pasted image 20260509222808.png]]
+
+N.B. Ricordati matrice Associata
+
+![[Pasted Image 20260509223123_460.png]]
