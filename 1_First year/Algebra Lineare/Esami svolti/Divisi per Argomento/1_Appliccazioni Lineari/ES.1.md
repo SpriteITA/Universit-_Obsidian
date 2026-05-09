@@ -60,6 +60,8 @@ PER TROVARLI SU USANO DIVERSI ALGORITMI...COME LA RISOLUZIONE DI GAUSS !
 
 2. Conoscendo questo adesso è possibile ==DEFINIRE LE REGOLE==:
    
-   2.1 SCAMBIO DI RIGHE:   R$_i$ <-> R$_i$
-	![[Pasted image 20260509231242.png]]
-	
+   2.1 SCAMBIO DI RIGHE:   R$_i$ <-> R$_i$	![[Pasted image 20260509231242.png]]
+    2.2 MOLTIPLICARE UNA RIGA PER UNO SCALARE: R$_i$ <- ƛR$_i$
+    
+    ![[Pasted image 20260509231604.png]] 
+    2.3
