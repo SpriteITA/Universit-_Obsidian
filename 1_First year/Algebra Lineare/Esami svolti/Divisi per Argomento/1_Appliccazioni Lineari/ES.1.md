@@ -40,8 +40,11 @@ Sostanzialmente per conoscere il concetto di applicazione lineare bisogna avere 
 ADESSO CHE SI E' COSTRUITA LA MATRICE ASSOCIATA SI VUOLE TROVARE:
 
 1. RANGO DELLA MATRICE
-2. LA DIMENSIONE DELL'IMMAGINE
-3. NUCLE
+2. RISOLVERE SISTEMI
+3. TROVARE KERNEL
+4. STUDIARE INDIPENDENZA LINEARE
+5. LA DIMENSIONE DELL'IMMAGINE
+6. NUCLE0
    
 PER TROVARLI SU USANO DIVERSI ALGORITMI...COME LA RISOLUZIONE DI GAUSS !
 
@@ -50,5 +53,6 @@ PER TROVARLI SU USANO DIVERSI ALGORITMI...COME LA RISOLUZIONE DI GAUSS !
 
 ==ALGORITMO DI GAUSS SULLA RIDUZIONE DI UNA MATRICE:==
 
-1. Il Primo step è quello di conoscere il significato di PIVOT (che corr)
+1. Il Primo step è quello di conoscere il significato di PIVOT (che corrispondono alla diagonale principale)
 ![[Excalidraw/Drawing 2026-05-09 22.53.04.excalidraw]]
+
