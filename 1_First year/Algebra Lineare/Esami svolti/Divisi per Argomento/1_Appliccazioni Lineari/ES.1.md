@@ -56,6 +56,10 @@ PER TROVARLI SU USANO DIVERSI ALGORITMI...COME LA RISOLUZIONE DI GAUSS !
 1. Il Primo step è quello di conoscere il significato di ==PIVOT== (che corrispondono alla diagonale principale)
 ![[Excalidraw/Drawing 2026-05-09 22.53.04.excalidraw]]
 
+
+
 2. Conoscendo questo adesso è possibile ==DEFINIRE LE REGOLE==:
    
    2.1 SCAMBIO DI RIGHE:   R$_i$ <-> R$_i$
+	![[Pasted image 20260509231242.png]]
+	
