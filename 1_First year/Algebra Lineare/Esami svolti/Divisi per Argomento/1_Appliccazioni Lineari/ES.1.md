@@ -64,4 +64,10 @@ PER TROVARLI SU USANO DIVERSI ALGORITMI...COME LA RISOLUZIONE DI GAUSS !
     2.2 MOLTIPLICARE UNA RIGA PER UNO SCALARE: R$_i$ <- ƛR$_i$
     
     ![[Pasted image 20260509231604.png]] 
-    2.3 
+    2.3 Sommare a una riga un multiplo di un’altra R$_i$ <- R$_i$ + ƛR$_i$
+    
+    ![[Pasted image 20260511161356.png]]
+    
+    ==ALGORITMO DI GAUSS  STEP BY STEP==
+    
+    ![[Pasted image 20260511161539.png]]
