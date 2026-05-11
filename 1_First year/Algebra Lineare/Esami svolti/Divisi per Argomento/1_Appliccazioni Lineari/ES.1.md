@@ -71,3 +71,16 @@ PER TROVARLI SU USANO DIVERSI ALGORITMI...COME LA RISOLUZIONE DI GAUSS !
     ==ALGORITMO DI GAUSS  STEP BY STEP==
     
     ![[Pasted image 20260511161539.png]]
+    
+    
+
+
+
+-----------------------------------------------
+
+
+
+
+==RANGO DELLA MATRICE + DIMENSIONE IMMAGINE==
+
+![[Pasted image 20260511191841.png]]
