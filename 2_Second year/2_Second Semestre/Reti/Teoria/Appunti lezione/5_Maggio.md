@@ -23,3 +23,5 @@ Questo è un sistema molto più affidabile perché invece del ==cavo assile si u
 --------------------------------------------
 
 ![[Pasted image 20260512120756.png]]
+
+
