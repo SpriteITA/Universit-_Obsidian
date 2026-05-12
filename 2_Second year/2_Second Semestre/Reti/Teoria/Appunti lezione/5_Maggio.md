@@ -13,3 +13,8 @@ Per il cavo giallo per funzionare ci devono essere 100 nodi sul segmento, per. p
 
 ![[Pasted image 20260512114529.png]]
 Questo è un sistema molto più affidabile perché invece del ==cavo assile si usa il cavo incrociato==
+
+
+==Lo standard dice:==
+
+°Se vuoi a lavorare a 10 mb fino a 500 metri funziona

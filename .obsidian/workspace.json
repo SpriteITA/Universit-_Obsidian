@@ -20,13 +20,7 @@
               "icon": "lucide-file",
               "title": "5_Maggio"
             }
-          }
-        ]
-      },
-      {
-        "id": "b8e7686dc1ed21bb",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "a4fd23072d4e9437",
             "type": "leaf",
