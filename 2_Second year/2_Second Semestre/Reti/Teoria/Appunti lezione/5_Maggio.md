@@ -18,3 +18,8 @@ Questo è un sistema molto più affidabile perché invece del ==cavo assile si u
 ==Lo standard dice:==
 
 °Se vuoi a lavorare a 10 mb fino a 500 metri funziona
+
+
+--------------------------------------------
+
+![[Pasted image 20260512120756.png]]
