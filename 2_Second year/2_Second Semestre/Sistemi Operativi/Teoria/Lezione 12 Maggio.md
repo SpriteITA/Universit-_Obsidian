@@ -14,3 +14,7 @@ Lascia che le azioni determinano quali siano le pagine. Cioé non carica niente 
 Provacando quindi il ==PAGE FAULT==
 
 
+N.B. se ho tanti ==PAGE FAULT== Questo può provocare ==Overead==. Pertanto la "Paginazione su richiesta" determinerà le pagine
+
+
+Pe
