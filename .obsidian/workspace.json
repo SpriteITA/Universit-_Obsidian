@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "489b917cfae52959",
@@ -187,6 +188,9 @@
   },
   "active": "7e3138efe943ef6d",
   "lastOpenFiles": [
+    "Utility/FileImmagini/Pasted image 20260512153459.png",
+    "Utility/FileImmagini/Pasted image 20260512153148.png",
+    "Utility/FileImmagini/Pasted image 20260512153113.png",
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione/5_Maggio.md",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Teoria/Lezione 12 Maggio.md",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Teoria",
@@ -203,9 +207,7 @@
     "Utility/FileImmagini/Pasted image 20260511191841.png",
     "Utility/PROMT CHATGPT -> Fondamentali per studiare/PROMT CHATGPT PER STUDIARE.md",
     "Utility/FileImmagini/Pasted image 20260511161539.png",
-    "Utility/FileImmagini/Pasted image 20260511161356.png",
     "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 11 Maggio ==TIPO IntStream==.md",
-    "Utility/FileImmagini/Pasted image 20260511093553.png",
     "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 6 Maggio 2026.md",
     "Excalidraw/Drawing 2026-05-09 22.53.04.excalidraw.md",
     "Excalidraw/Drawing 2026-05-07 21.55.37.excalidraw.md",
@@ -232,7 +234,6 @@
     "2_Second year/2_Second Semestre/Software engenire/Studio",
     "Utility/COMANDI COMPILATORE/COMANDI.md",
     "Utility/COMANDI COMPILATORE",
-    "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Appunti.md",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/Senza nome.canvas",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
     "Senza nome.canvas"
