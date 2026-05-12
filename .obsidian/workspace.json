@@ -24,19 +24,19 @@
         ]
       },
       {
-        "id": "89c48438e3d91d17",
+        "id": "b8e7686dc1ed21bb",
         "type": "tabs",
         "children": [
           {
-            "id": "9032ab0815a9b2bf",
+            "id": "a4fd23072d4e9437",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-12 11.40.11.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-05-12 11.41.17.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-12 11.40.11.excalidraw"
+              "title": "Drawing 2026-05-12 11.41.17.excalidraw"
             }
           }
         ]
@@ -204,10 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9032ab0815a9b2bf",
+  "active": "28759b7900dddf1f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-12 11.40.11.excalidraw.md",
+    "Utility/FileImmagini/Pasted image 20260512114529.png",
+    "Excalidraw/Drawing 2026-05-12 11.41.17.excalidraw.md",
+    "Utility/FileImmagini/Pasted Image 20260512114302_343.png",
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione/5_Maggio.md",
+    "Excalidraw/Drawing 2026-05-12 11.40.11.excalidraw.md",
     "Utility/FileImmagini/Pasted image 20260512113649.png",
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione/12_Maggio",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/ES.1.md",
@@ -223,7 +226,6 @@
     "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 6 Maggio 2026.md",
     "Utility/FileImmagini/Pasted image 20260509231604.png",
     "Excalidraw/Drawing 2026-05-09 22.53.04.excalidraw.md",
-    "Utility/FileImmagini/Pasted image 20260509231242.png",
     "Excalidraw/Drawing 2026-05-07 21.55.37.excalidraw.md",
     "Utility/COMANDI OBSIDIAN/LISTA COMANDI.md",
     "Utility/COMANDI macOS + Obsidian/Lista commandi.md",
@@ -250,9 +252,7 @@
     "Utility/COMANDI COMPILATORE",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Laboratorio/Appunti.md",
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione",
-    "Senza nome.md",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/Senza nome.canvas",
-    "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
     "Interazione e Multimedia - Teoria/Senza nome.canvas",
     "Senza nome.canvas"
   ]

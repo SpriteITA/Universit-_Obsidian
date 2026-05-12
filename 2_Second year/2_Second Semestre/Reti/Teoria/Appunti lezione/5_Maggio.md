@@ -8,4 +8,8 @@ Il cavo coassiale è immune alla interferenze esterne
 
 Ad esempio: I sensori dei sensori cardiaci vengono fatti con i ==Cavi coassiali==
 
-Hanno però un difetto: ""
+Per il cavo giallo per funzionare ci devono essere 100 nodi sul segmento, per. poi prendere un amplficatore ed estendere il segnale
+
+
+![[Pasted image 20260512114529.png]]
+Questo è un sistema molto più affidabile perché invece del =?
