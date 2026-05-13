@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_First year/Algebra Lineare/Salvo Romeo/VIDEO YT.md",
+                "file": "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/ES.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIDEO YT"
+              "title": "ES.1"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "489b917cfae52959",
@@ -187,8 +188,8 @@
   },
   "active": "7e3138efe943ef6d",
   "lastOpenFiles": [
-    "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/ES.1.md",
     "1_First year/Algebra Lineare/Salvo Romeo/VIDEO YT.md",
+    "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/ES.1.md",
     "1_First year/Algebra Lineare/Salvo Romeo",
     "Utility/FileImmagini/Pasted image 20260513161829.png",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Teoria/Lezione 12 Maggio.md",
