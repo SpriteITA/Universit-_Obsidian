@@ -4,9 +4,11 @@ Sostanzialmente per conoscere il concetto di applicazione lineare bisogna avere 
    1 Uno spazio vettoriale (indicato con "R^n") e un insieme che contiene vettori (anche infiniti) a  "n"componenti, dove =="n"== corrisponde alla cardinalità dei vettori 
    
 2. Cos'è un vettore e quali operazioni si possono fare ? 
-   2 Si possono fare somme e prodotti e il risultato rimane nello stesso spazio vettoriale (cioé i vettori risultanti avranno sempre lo stesso numero di componenti)
+   2 Si possono fare somme e prodotti per uno scalare e il risultato rimane nello stesso spazio vettoriale (cioé i vettori risultanti avranno sempre lo stesso numero di componenti)
    
 3. Come si definisce formalmente un vettore di R^x componenti ? (combinazione lineare e base canonica)
+   ![[Pasted image 20260513161829.png]]
+
 
 4. Applicazione tra spazi vettoriali --> funzione che prende in input un vettore e ne restituisce un'altro  `f:R3→R4`
 
