@@ -1,13 +1,18 @@
 Sostanzialmente per conoscere il concetto di applicazione lineare bisogna avere la conoscenza pregressa di sapere:
 
 1. Cos'è uno spazio vettoriale ?  
-   1 Uno spazio vettoriale (indicato con )
+   1 Uno spazio vettoriale (indicato con "R^n") e un insieme che contiene vettori (anche infiniti) a  "n"componenti, dove =="n"== corrisponde alla cardinalità dei vettori 
    
-3. Cos'è un vettore e quali operazioni si possono fare ?
-4. Come si definisce formalmente un vettore di R^x componenti ? (combinazione lineare e base canonica)
-5. Applicazione tra spazi vettoriali --> funzione che prende in input un vettore e ne restituisce un'altro  `f:R3→R4`
-6. Quali proprietà deve rispettare un'applicazione `f` per essere lineare ? (1° Somma e 2° Prodotto per scalare)
-7. 
+2. Cos'è un vettore e quali operazioni si possono fare ? 
+   2 Si possono fare somme e prodotti e il risultato rimane nello stesso spazio vettoriale (cioé i vettori risultanti avranno sempre lo stesso numero di componenti)
+   
+3. Come si definisce formalmente un vettore di R^x componenti ? (combinazione lineare e base canonica)
+
+4. Applicazione tra spazi vettoriali --> funzione che prende in input un vettore e ne restituisce un'altro  `f:R3→R4`
+
+5. Quali proprietà deve rispettare un'applicazione `f` per essere lineare ? (1° Somma e 2° Prodotto per scalare)
+
+6. 
    
 
 
