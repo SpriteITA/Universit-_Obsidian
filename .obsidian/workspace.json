@@ -11,12 +11,14 @@
             "id": "7e3138efe943ef6d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Utility/Excalidraw/BreadoBoard.excalidraw.md"
+                "file": "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "BreadoBoard.excalidraw"
+              "icon": "lucide-file",
+              "title": "COMPONENTI DI ARDUINO"
             }
           }
         ]
@@ -185,6 +187,7 @@
   },
   "active": "7e3138efe943ef6d",
   "lastOpenFiles": [
+    "Utility/Excalidraw/BreadoBoard.excalidraw.md",
     "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/ES.1.md",
     "1_First year/Algebra Lineare/Salvo Romeo/VIDEO YT.md",
@@ -227,7 +230,6 @@
     "Personal Folder/Concetti matematici_Dalle materie alla realtà/DALLE MATERIE ALLA REALTA'.md",
     "Personal Folder/Musica",
     "Immagini",
-    "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
     "Excalidraw",
     "2_Second year/2_Second Semestre/Software engenire/Lezioni",
     "2_Second year/2_Second Semestre/Software engenire/Studio",
