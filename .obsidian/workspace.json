@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
+                "file": "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMPONENTI DI ARDUINO"
+              "title": "Studio della materia"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "489b917cfae52959",
@@ -187,8 +188,8 @@
   },
   "active": "7e3138efe943ef6d",
   "lastOpenFiles": [
-    "Utility/Excalidraw/BreadoBoard.excalidraw.md",
     "Personal Folder/Arduino/Teoria/COMPONENTI DI ARDUINO.md",
+    "Utility/Excalidraw/BreadoBoard.excalidraw.md",
     "1_First year/Algebra Lineare/Esami svolti/Divisi per Argomento/1_Appliccazioni Lineari/ES.1.md",
     "1_First year/Algebra Lineare/Salvo Romeo/VIDEO YT.md",
     "1_First year/Algebra Lineare/Salvo Romeo",
