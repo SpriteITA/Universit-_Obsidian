@@ -11,17 +11,28 @@
             "id": "7e3138efe943ef6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-05-12 11.41.17.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Studio della materia"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-12 11.41.17.excalidraw"
+            }
+          },
+          {
+            "id": "5a5eb2208bb2deae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-22 11.52.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-22 11.52.58.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +196,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e3138efe943ef6d",
+  "active": "5a5eb2208bb2deae",
   "lastOpenFiles": [
-    "2_Second year/2_Second Semestre/Software engenire/Nozioni_Java/1_Scanner di input.md",
+    "Utility/FileImmagini/Pasted Image 20260522115419_874.png",
+    "Utility/FileImmagini/Pasted Image 20260522115325_052.png",
+    "Excalidraw/Drawing 2026-05-12 11.41.17.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-22 11.52.58.excalidraw.md",
     "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
+    "Utility/FileImmagini/Pasted image 20260522115148.png",
+    "2_Second year/2_Second Semestre/Software engenire/Nozioni_Java/1_Scanner di input.md",
     "2_Second year/2_Second Semestre/Software engenire/Nozioni_Java",
     "2_Second year/2_Second Semestre/Software engenire/Senza nome.md",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Teoria/Lezione 19 Maggio.md",
@@ -206,13 +222,10 @@
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione/5_Maggio.md",
     "2_Second year/2_Second Semestre/Sistemi Operativi/Teoria",
     "Utility/FileImmagini/Pasted image 20260512120756.png",
-    "Excalidraw/Drawing 2026-05-12 11.41.17.excalidraw.md",
     "Utility/FileImmagini/Pasted image 20260512114529.png",
     "Utility/FileImmagini/Pasted Image 20260512114302_343.png",
     "Excalidraw/Drawing 2026-05-12 11.40.11.excalidraw.md",
-    "Utility/FileImmagini/Pasted image 20260512113649.png",
     "2_Second year/2_Second Semestre/Reti/Teoria/Appunti lezione/12_Maggio",
-    "Utility/FileImmagini/Pasted image 20260511195001.png",
     "Utility/PROMT CHATGPT -> Fondamentali per studiare/PROMT CHATGPT PER STUDIARE.md",
     "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 11 Maggio ==TIPO IntStream==.md",
     "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 6 Maggio 2026.md",
@@ -226,8 +239,6 @@
     "Excalidraw/Drawing 2026-05-07 16.57.20.excalidraw.md",
     "Excalidraw/Drawing 2026-05-06 16.59.32_0.excalidraw.md",
     "Utility/FileImmagini/Drawing 2026-05-09 22.31.05.excalidraw.md",
-    "Utility/FileImmagini/Drawing 2026-05-09 22.29.15.excalidraw.md",
-    "Utility/FileImmagini/Drawing 2026-05-09 22.28.52.excalidraw.md",
     "1_First year/Analisi 1/SolaTeoria",
     "Personal Folder/Musica",
     "Immagini",
