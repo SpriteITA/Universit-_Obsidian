@@ -13,3 +13,7 @@ I protagonisti sono sempre due:
 Questo ne permette anche di valutare i costi al cliente, che così è consapevole se è possibile lavorare oppure no. 
 
 
+Lo studio dei requisiti permette di definire due nozioni
+
+1. Requisiti funzionali
+2. 
