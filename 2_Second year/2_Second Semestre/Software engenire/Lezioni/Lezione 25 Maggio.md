@@ -1,0 +1,11 @@
+La fase di analisi nell'ingegneria del software si definisce l'analisi dei requisiti. Essa è divisa in ==4 attivita'==
+
+
+L'obiettivo finale è una relazione dei requisiti (l'outpt). In questo però ci sono delle attività intermedie. 
+
+I protagonisti sono sempre due:
+	1. L'azienda software: Che fornisce il software 
+	2. Cliente:  Che lo richiede
+
+==LO STUDIO DI FATTIBILITA' DEVE ESSERE FATTA PRIMA DELLA FORNITURA DEL SOFTWARE==
+	Cossiché si sanno i tempi di produzione e la

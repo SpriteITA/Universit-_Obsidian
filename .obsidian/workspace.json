@@ -23,12 +23,14 @@
             "id": "5a5eb2208bb2deae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-22 11.52.58.excalidraw.md"
+                "file": "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 25 Maggio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-22 11.52.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "Lezione 25 Maggio"
             }
           }
         ],
@@ -198,12 +200,13 @@
   },
   "active": "5a5eb2208bb2deae",
   "lastOpenFiles": [
+    "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
+    "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 25 Maggio.md",
     "Excalidraw/Drawing 2026-05-22 11.52.58.excalidraw.md",
     "Excalidraw/Drawing 2026-05-12 11.40.11.excalidraw.md",
     "Utility/FileImmagini/Pasted Image 20260522115419_874.png",
     "Utility/FileImmagini/Pasted Image 20260522115325_052.png",
     "Excalidraw/Drawing 2026-05-12 11.41.17.excalidraw.md",
-    "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
     "Utility/FileImmagini/Pasted image 20260522115148.png",
     "2_Second year/2_Second Semestre/Software engenire/Nozioni_Java/1_Scanner di input.md",
     "2_Second year/2_Second Semestre/Software engenire/Nozioni_Java",
