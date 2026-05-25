@@ -8,4 +8,8 @@ I protagonisti sono sempre due:
 	2. Cliente:  Che lo richiede
 
 ==LO STUDIO DI FATTIBILITA' DEVE ESSERE FATTA PRIMA DELLA FORNITURA DEL SOFTWARE==
-	Cossiché si sanno i tempi di produzione e la
+	Cossiché si sanno i tempi di produzione e la si concorda con il cliente
+	
+Questo ne permette anche di valutare i costi al cliente, che così è consapevole se è possibile lavorare oppure no. 
+
+
