@@ -40,9 +40,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-06-12 00.26.38.excalidraw"
             }
+          },
+          {
+            "id": "51280bd4b684ba31",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-12 00.26.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-12 00.26.38.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,11 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a799f777c6249f8",
+  "active": "4b6a872fcc73b2bb",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-22 11.52.58.excalidraw.md",
-    "Excalidraw/Drawing 2026-06-12 00.26.38.excalidraw.md",
     "2_Second year/2_Second Semestre/Reti/Laboratorio/1) What is a network ?.md",
+    "Excalidraw/Drawing 2026-06-12 00.26.38.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-22 11.52.58.excalidraw.md",
     "2_Second year/2_Second Semestre/Software engenire/Lezioni/Lezione 6 Maggio 2026.md",
     "2_Second year/2_Second Semestre/Software engenire/Studio/Studio della materia.md",
     "2_Second year/2_Second Semestre/Software engenire/Nozioni_Java/1_Scanner di input.md",
